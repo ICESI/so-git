@@ -1,9 +1,14 @@
 ### Introducción a versionamiento con git
-Universidad ICESI
-Curso: Sistemas Operativos
-Docente: Daniel Barragán C.
-Tema: Introducción a Python
-Correo: daniel.barragan at correo.icesi.edu.co
+Universidad ICESI 
+
+Curso: Sistemas Operativos 
+
+Docente: Daniel Barragán C. 
+
+Tema: Introducción a Python 
+
+Correo: daniel.barragan at correo.icesi.edu.co 
+
 
 ### Objetivos
 * Conocer la importancia del manejo de herramientas de control de versiones
