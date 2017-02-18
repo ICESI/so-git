@@ -2,7 +2,7 @@
 Universidad ICESI  
 Curso: Sistemas Operativos  
 Docente: Daniel Barragán C.  
-Tema: Introducción a Python  
+Tema: Introducción a github  
 Correo: daniel.barragan at correo.icesi.edu.co   
 
 ### Objetivos
