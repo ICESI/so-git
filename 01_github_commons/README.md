@@ -15,11 +15,12 @@ de aplicaciones cuando éstas tienen un gran número de archivos de código fuen
 **GitHub** es una plataforma de desarrollo colaborativo de software para alojar proyectos
 utilizando el sistema de control de versiones Git.
 
-### Instalación
-En esta guía se explicaran los comandos en consola para la realización de actividades de uso frecuente en github
+### Casos de Estudio
+En esta guía se presentan problemas comunes al usar versionamiento con git y sus respectivas soluciones:
 
 ### Desarrollo
 Se sugiere la utilización de ramas como mecanismo de trabajo y la no utilización de la rama maestra (master branch) para el desarrollo.
 
 #### Referencias
-
+https://try.github.io/levels/1/challenges/1  
+http://semver.org/
